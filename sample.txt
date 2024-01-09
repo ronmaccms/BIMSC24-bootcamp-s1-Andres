@@ -2,6 +2,7 @@
  this change was made from git desktop
 
 
+SET AUTOCOMMIT OFF
 
 
 
